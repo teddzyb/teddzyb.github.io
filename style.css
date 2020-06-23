@@ -31,10 +31,10 @@ p {
 }
 
 .about-author img {
-  width: 100px;
-  height: 100px;
+  width: 125px;
+  height: 125px;
   vertical-align: middle;
-  border-radius: 50px;
+  border-radius: 50%;
 }
 
 .container {
@@ -72,6 +72,29 @@ p {
 
 .about {
   text-align: center;
+}
+
+.about-snippets {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 25px;
+}
+
+.about-snippets .about-title {
+  text-transform: uppercase;
+  padding-bottom: 15px;
+}
+
+.about-snippets a {
+  line-height: 37px;
+}
+
+.snippets {
+  min-width: 330px;
+  display: inline-block;
+  vertical-align: top;
+  padding-bottom: 70px;
 }
 
 #header {
