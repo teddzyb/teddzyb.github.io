@@ -1,9 +1,9 @@
-@import url(https://fonts.googlepais.com/css?family=Montserrat:400,700);
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 body {
   color: #555;
   margin: 0;
-  font-family: 'Montserrat',sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 a {
