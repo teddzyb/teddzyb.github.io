@@ -107,6 +107,7 @@ p {
   background-color: #1abc9c;
   height: 150px;
   line-height: 150px;
+  margin-right: 50px;
 }
 
 #header a {
@@ -132,7 +133,6 @@ p {
   display: block;
   float: right;
   margin-top: 0;
-  margin-right: 50px;
 }
 
 #header-nav li {
