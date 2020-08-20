@@ -24,10 +24,10 @@ p {
 }
 
 .post-author img {
-  width: 50px;
-  height: 50px;
+  width: 10vmin;
+  height: 10vmin;
   vertical-align: middle;
-  border-radius: 25px;
+  border-radius: 50%;
 }
 
 .about-author img {
@@ -35,6 +35,11 @@ p {
   height: 125px;
   vertical-align: middle;
   border-radius: 50%;
+}
+
+.header-container, .footer-container {
+  max-width: 1100px;
+  margin: 0 auto;
 }
 
 .container {
@@ -46,6 +51,7 @@ p {
   min-width: 300px;
   display: inline-block;
   vertical-align: top;
+  margin-left: 50px;
 }
 
 .post, .about{
@@ -117,19 +123,22 @@ p {
 #header-title {
   display: block;
   float: left;
-  font-size: 20px;
+  font-size: 3vmin;
   font-weight: bold;
+  margin-left: 50px;
 }
 
 #header-nav {
   display: block;
   float: right;
   margin-top: 0;
+  margin-right: 50px;
 }
 
 #header-nav li {
   display: inline;
-  padding-left: 20px;
+  padding-left: 25px;
+  font-size: 3vmin;
 }
 
 #footer {
