@@ -107,7 +107,6 @@ p {
   background-color: #1abc9c;
   height: 150px;
   line-height: 150px;
-  margin-right: 50px;
 }
 
 #header a {
@@ -127,6 +126,7 @@ p {
   font-size: 3vmin;
   font-weight: bold;
   margin-left: 50px;
+  margin-right: 50px;
 }
 
 #header-nav {
