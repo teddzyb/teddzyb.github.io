@@ -11,4 +11,4 @@ Contributions are _not_ welcomed.
 Completed. (08/20/2020)
 ##
 
-***Please do not copy or distribute any photos from the files.***
+***Please do not copy or distribute any images from the files.***
