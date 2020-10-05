@@ -4,7 +4,7 @@ A personal blog site, made as part of a project from Mimo.
 
 ## Contributing
 
-Contributions are _not_ welcomed.
+Contributions are not welcomed.
 
 ## Project Status
 
