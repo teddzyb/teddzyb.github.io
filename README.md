@@ -8,7 +8,7 @@ Contributions are not welcomed.
 
 ## Project Status
 
-Completed. (08/20/2020)
+Completed. (August 20, 2020)
 ##
 
 ***Please do not copy or distribute any images from the files.***
