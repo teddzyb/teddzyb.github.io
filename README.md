@@ -2,6 +2,9 @@
 
 A personal blog site project made as part of a the Mimo Web Development course.
 
+## Website Link
+https://teddzyb.github.io/
+
 ## Screenshots
 
 <p align="center">
